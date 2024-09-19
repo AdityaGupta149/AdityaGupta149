@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Aditya Gupta. I am currently persuing B.Tech CSE from UPES Dehradun.
 
 <!--
 **AdityaGupta149/AdityaGupta149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
